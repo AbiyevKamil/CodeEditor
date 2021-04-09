@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Emulator\bin\Debug\Emulator.exe.config
+C:\Users\LEGION\source\repos\Emulator\bin\Debug\Emulator.exe
+C:\Users\LEGION\source\repos\Emulator\bin\Debug\Emulator.pdb
+C:\Users\LEGION\source\repos\Emulator\obj\Debug\Emulator.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Emulator\obj\Debug\Emulator.Main.resources
+C:\Users\LEGION\source\repos\Emulator\obj\Debug\Emulator.Properties.Resources.resources
+C:\Users\LEGION\source\repos\Emulator\obj\Debug\Emulator.csproj.GenerateResource.cache
+C:\Users\LEGION\source\repos\Emulator\obj\Debug\Emulator.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Emulator\obj\Debug\Emulator.exe
+C:\Users\LEGION\source\repos\Emulator\obj\Debug\Emulator.pdb
+C:\Users\LEGION\source\repos\Emulator\obj\Debug\Emulator.Login.resources
+C:\Users\LEGION\source\repos\Emulator\obj\Debug\Emulator.CodeEditor.resources
+C:\Users\LEGION\source\repos\Emulator\obj\Debug\Emulator.TodoApp.resources
